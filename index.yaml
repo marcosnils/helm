@@ -247,13 +247,13 @@ entries:
     - https://marcosnils.github.io/helm/fmtok8s-frontend-0.1.0.tgz
     version: 0.1.0
   - apiVersion: v2
-    created: "2022-11-28T15:17:42.289467Z"
+    created: "2022-12-29T03:40:17.613449987Z"
     description: FMTOK8s Frontend Service Helm chart for Kubernetes
-    digest: 36209c2706a29d2b2cc661419d40fb5e253387dfaa3f178a59613f20676c029a
+    digest: f629a288ac15c2564cd873cbd132c83bc660786544140081c76b90a5836a1d75
     icon: https://salaboy.files.wordpress.com/2019/07/avatar.png
     name: fmtok8s-frontend
     urls:
-    - https://salaboy.github.io/helm/fmtok8s-frontend-v0.0.1.tgz
+    - https://marcosnils.github.io/helm/fmtok8s-frontend-v0.0.1.tgz
     version: v0.0.1
   fmtok8s-payments-service:
   - apiVersion: v2
@@ -574,4 +574,4 @@ entries:
     urls:
     - https://salaboy.github.io/helm/weird-0.1.0.tgz
     version: 0.1.0
-generated: "2022-12-29T02:15:39.492750085Z"
+generated: "2022-12-29T03:40:17.612375591Z"
